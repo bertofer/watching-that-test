@@ -1,0 +1,9 @@
+{
+  "name": "watching-that-test",
+  "version": "0.1.0",
+  "description": "Test for Watching That. Atom feeds reader with React and Redux.",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT"
+}
