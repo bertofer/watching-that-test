@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/bertofer</id>
+  <link type="text/html" rel="alternate" href="https://github.com/bertofer"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/bertofer.atom"/>
+  <title>bertofer’s Activity</title>
+  <updated>2016-09-16T08:54:40Z</updated>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/4572889129</id>
+    <published>2016-09-16T08:54:40Z</published>
+    <updated>2016-09-16T08:54:40Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/Unitech/pm2"/>
+    <title type="html">bertofer starred Unitech/pm2</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;svg aria-label=&quot;Watch&quot; class=&quot;octicon octicon-star dashboard-event-icon&quot; height=&quot;16&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;14&quot;&gt;&lt;path d=&quot;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;bertofer&lt;/a&gt; starred &lt;a href=&quot;/Unitech/pm2&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;Unitech/pm2&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;relative-time datetime=&quot;2016-09-16T08:54:40Z&quot;&gt;Sep 16, 2016&lt;/relative-time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/4572886179</id>
+    <published>2016-09-16T08:54:01Z</published>
+    <updated>2016-09-16T08:54:01Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gztchan/awesome-design"/>
+    <title type="html">bertofer starred gztchan/awesome-design</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;svg aria-label=&quot;Watch&quot; class=&quot;octicon octicon-star dashboard-event-icon&quot; height=&quot;16&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;14&quot;&gt;&lt;path d=&quot;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;bertofer&lt;/a&gt; starred &lt;a href=&quot;/gztchan/awesome-design&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;gztchan/awesome-design&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;relative-time datetime=&quot;2016-09-16T08:54:01Z&quot;&gt;Sep 16, 2016&lt;/relative-time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/4572883939</id>
+    <published>2016-09-16T08:53:25Z</published>
+    <updated>2016-09-16T08:53:25Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/ibab/tensorflow-wavenet"/>
+    <title type="html">bertofer starred ibab/tensorflow-wavenet</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;svg aria-label=&quot;Watch&quot; class=&quot;octicon octicon-star dashboard-event-icon&quot; height=&quot;16&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;14&quot;&gt;&lt;path d=&quot;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;bertofer&lt;/a&gt; starred &lt;a href=&quot;/ibab/tensorflow-wavenet&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;ibab/tensorflow-wavenet&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;relative-time datetime=&quot;2016-09-16T08:53:25Z&quot;&gt;Sep 16, 2016&lt;/relative-time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssuesEvent/4572881311</id>
+    <published>2016-09-16T08:52:47Z</published>
+    <updated>2016-09-16T08:52:47Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/Quramy/electron-connect/issues/60"/>
+    <title type="html">bertofer closed issue Quramy/electron-connect#60</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issues --&gt;
+&lt;svg aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M7 10h2v2H7v-2zm2-6H7v5h2V4zm1.5 1.5l-1 1L12 9l4-4.5-1-1L12 7l-1.5-1.5zM8 13.7A5.71 5.71 0 0 1 2.3 8c0-3.14 2.56-5.7 5.7-5.7 1.83 0 3.45.88 4.5 2.2l.92-.92A6.947 6.947 0 0 0 8 1C4.14 1 1 4.14 1 8s3.14 7 7 7 7-3.14 7-7l-1.52 1.52c-.66 2.41-2.86 4.19-5.48 4.19v-.01z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-16T08:52:47Z&quot;&gt;Sep 16, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:actor&quot;&gt;bertofer&lt;/a&gt; closed issue &lt;a href=&quot;/Quramy/electron-connect/issues/60&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:issue&quot; title=&quot;Not allowed to load local resource: data:text/html,chromewebdata:1&quot;&gt;Quramy/electron-connect#60&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;
+      Not allowed to load local resource: data:text/html,chromewebdata:1
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/4572881304</id>
+    <published>2016-09-16T08:52:47Z</published>
+    <updated>2016-09-16T08:52:47Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/Quramy/electron-connect/issues/60#issuecomment-247550697"/>
+    <title type="html">bertofer commented on issue Quramy/electron-connect#60</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 1H6c-.55 0-1 .45-1 1v2H1c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1v3l3-3h4c.55 0 1-.45 1-1V9h1l3 3V9h1c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM9 11H4.5L3 12.5V11H1V5h4v3c0 .55.45 1 1 1h3v2zm6-3h-2v1.5L11.5 8H6V2h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-16T08:52:47Z&quot;&gt;Sep 16, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;bertofer&lt;/a&gt; commented on issue &lt;a href=&quot;/Quramy/electron-connect/issues/60#issuecomment-247550697&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Not allowed to load local resource: data:text/html,chromewebdata:1&quot;&gt;Quramy/electron-connect#60&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Hi! We finally solved it, here&#39;s the issue with the solution we did: 
+&lt;a href=&quot;https://github.com/bertofer/angular2-electron/issues/3&quot; class=&quot;issue-link js-issue-link&quot; data-url=&quot;https://github.com/bertofer/angular2-electron/issues/3&quot; data-id=&quot;176288095&quot; data-error-text=&quot;Failed to load issue title&quot; data-permission-text=&quot;Issue title is private&quot;&gt;bertofer/angular2-electron#3&lt;/a&gt;
+&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4566921404</id>
+    <published>2016-09-15T09:10:40Z</published>
+    <updated>2016-09-15T09:10:40Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/quercus/compare/21e94295bf...a8960f9f37"/>
+    <title type="html">bertofer pushed to master at bertofer/quercus</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-15T09:10:40Z&quot;&gt;Sep 15, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/quercus/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/quercus&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/quercus&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/quercus/commit/a8960f9f37f3a2b3d4da23406fa9d22fdb8462c7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;a8960f9&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Removed nonworking draggable code
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/4560802401</id>
+    <published>2016-09-14T09:21:41Z</published>
+    <updated>2016-09-14T09:21:41Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/issues/3#issuecomment-246955043"/>
+    <title type="html">bertofer commented on issue bertofer/angular2-electron#3</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 1H6c-.55 0-1 .45-1 1v2H1c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1v3l3-3h4c.55 0 1-.45 1-1V9h1l3 3V9h1c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM9 11H4.5L3 12.5V11H1V5h4v3c0 .55.45 1 1 1h3v2zm6-3h-2v1.5L11.5 8H6V2h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-14T09:21:41Z&quot;&gt;Sep 14, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;bertofer&lt;/a&gt; commented on issue &lt;a href=&quot;/bertofer/angular2-electron/issues/3#issuecomment-246955043&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Live Reload Is Not working&quot;&gt;bertofer/angular2-electron#3&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Hi &lt;a href=&quot;https://github.com/Nishanth2&quot; class=&quot;user-mention&quot;&gt;@Nishanth2&lt;/a&gt; , fixed, thanks for the help!&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4560792172</id>
+    <published>2016-09-14T09:19:33Z</published>
+    <updated>2016-09-14T09:19:33Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/compare/28817dcdab...3bc6b5104d"/>
+    <title type="html">bertofer pushed to master at bertofer/angular2-electron</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-14T09:19:33Z&quot;&gt;Sep 14, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/angular2-electron/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/angular2-electron&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/angular2-electron&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/angular2-electron/commit/3bc6b5104de71feab9ea631d3c38fcd6dd6d3400&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;3bc6b51&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Removed base href, added useHash to app.routing.ts. Fixes #3
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssuesEvent/4560792164</id>
+    <published>2016-09-14T09:19:33Z</published>
+    <updated>2016-09-14T09:19:33Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/issues/3"/>
+    <title type="html">bertofer closed issue bertofer/angular2-electron#3</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issues --&gt;
+&lt;svg aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M7 10h2v2H7v-2zm2-6H7v5h2V4zm1.5 1.5l-1 1L12 9l4-4.5-1-1L12 7l-1.5-1.5zM8 13.7A5.71 5.71 0 0 1 2.3 8c0-3.14 2.56-5.7 5.7-5.7 1.83 0 3.45.88 4.5 2.2l.92-.92A6.947 6.947 0 0 0 8 1C4.14 1 1 4.14 1 8s3.14 7 7 7 7-3.14 7-7l-1.52 1.52c-.66 2.41-2.86 4.19-5.48 4.19v-.01z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-14T09:19:33Z&quot;&gt;Sep 14, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:actor&quot;&gt;bertofer&lt;/a&gt; closed issue &lt;a href=&quot;/bertofer/angular2-electron/issues/3&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:issue&quot; title=&quot;Live Reload Is Not working&quot;&gt;bertofer/angular2-electron#3&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;
+      Live Reload Is Not working
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/4550789461</id>
+    <published>2016-09-12T17:45:59Z</published>
+    <updated>2016-09-12T17:45:59Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/vdemedes/mongorito"/>
+    <title type="html">bertofer starred vdemedes/mongorito</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;svg aria-label=&quot;Watch&quot; class=&quot;octicon octicon-star dashboard-event-icon&quot; height=&quot;16&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;14&quot;&gt;&lt;path d=&quot;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;bertofer&lt;/a&gt; starred &lt;a href=&quot;/vdemedes/mongorito&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;vdemedes/mongorito&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;relative-time datetime=&quot;2016-09-12T17:45:59Z&quot;&gt;Sep 12, 2016&lt;/relative-time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/4548850637</id>
+    <published>2016-09-12T11:57:56Z</published>
+    <updated>2016-09-12T11:57:56Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/paldepind/snabbdom"/>
+    <title type="html">bertofer starred paldepind/snabbdom</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;svg aria-label=&quot;Watch&quot; class=&quot;octicon octicon-star dashboard-event-icon&quot; height=&quot;16&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;14&quot;&gt;&lt;path d=&quot;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;bertofer&lt;/a&gt; starred &lt;a href=&quot;/paldepind/snabbdom&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;paldepind/snabbdom&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;relative-time datetime=&quot;2016-09-12T11:57:56Z&quot;&gt;Sep 12, 2016&lt;/relative-time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssuesEvent/4548302931</id>
+    <published>2016-09-12T09:44:09Z</published>
+    <updated>2016-09-12T09:44:09Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/issues/3"/>
+    <title type="html">bertofer reopened issue bertofer/angular2-electron#3</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issues --&gt;
+&lt;svg aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-reopened dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M8 9H6V4h2v5zm-2 3h2v-2H6v2zm6.33-2H10l1.5 1.5c-1.05 1.33-2.67 2.2-4.5 2.2A5.71 5.71 0 0 1 1.3 8c0-.34.03-.67.09-1H.08C.03 7.33 0 7.66 0 8c0 3.86 3.14 7 7 7 2.19 0 4.13-1.02 5.41-2.59L14 14v-4h-1.67zM1.67 6H4L2.5 4.5C3.55 3.17 5.17 2.3 7 2.3c3.14 0 5.7 2.56 5.7 5.7 0 .34-.03.67-.09 1h1.31c.05-.33.08-.66.08-1 0-3.86-3.14-7-7-7-2.19 0-4.13 1.02-5.41 2.59L0 2v4h1.67z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-12T09:44:09Z&quot;&gt;Sep 12, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:actor&quot;&gt;bertofer&lt;/a&gt; reopened issue &lt;a href=&quot;/bertofer/angular2-electron/issues/3&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:issue&quot; title=&quot;Live Reload Is Not working&quot;&gt;bertofer/angular2-electron#3&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;
+      Live Reload Is Not working
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssuesEvent/4548302763</id>
+    <published>2016-09-12T09:44:07Z</published>
+    <updated>2016-09-12T09:44:07Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/issues/3"/>
+    <title type="html">bertofer closed issue bertofer/angular2-electron#3</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issues --&gt;
+&lt;svg aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M7 10h2v2H7v-2zm2-6H7v5h2V4zm1.5 1.5l-1 1L12 9l4-4.5-1-1L12 7l-1.5-1.5zM8 13.7A5.71 5.71 0 0 1 2.3 8c0-3.14 2.56-5.7 5.7-5.7 1.83 0 3.45.88 4.5 2.2l.92-.92A6.947 6.947 0 0 0 8 1C4.14 1 1 4.14 1 8s3.14 7 7 7 7-3.14 7-7l-1.52 1.52c-.66 2.41-2.86 4.19-5.48 4.19v-.01z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-12T09:44:07Z&quot;&gt;Sep 12, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:actor&quot;&gt;bertofer&lt;/a&gt; closed issue &lt;a href=&quot;/bertofer/angular2-electron/issues/3&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:issue&quot; title=&quot;Live Reload Is Not working&quot;&gt;bertofer/angular2-electron#3&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;
+      Live Reload Is Not working
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/4548302753</id>
+    <published>2016-09-12T09:44:07Z</published>
+    <updated>2016-09-12T09:44:07Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/issues/3#issuecomment-246298771"/>
+    <title type="html">bertofer commented on issue bertofer/angular2-electron#3</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 1H6c-.55 0-1 .45-1 1v2H1c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1v3l3-3h4c.55 0 1-.45 1-1V9h1l3 3V9h1c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM9 11H4.5L3 12.5V11H1V5h4v3c0 .55.45 1 1 1h3v2zm6-3h-2v1.5L11.5 8H6V2h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-12T09:44:07Z&quot;&gt;Sep 12, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;bertofer&lt;/a&gt; commented on issue &lt;a href=&quot;/bertofer/angular2-electron/issues/3#issuecomment-246298771&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Live Reload Is Not working&quot;&gt;bertofer/angular2-electron#3&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;I have investigated a little bit about that, and collected some open issues about it. I also opened one myself in electron-connect. But none of the…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssuesEvent/4548274552</id>
+    <published>2016-09-12T09:37:55Z</published>
+    <updated>2016-09-12T09:37:55Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/Quramy/electron-connect/issues/60"/>
+    <title type="html">bertofer opened issue Quramy/electron-connect#60</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issues --&gt;
+&lt;svg aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-opened dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-12T09:37:55Z&quot;&gt;Sep 12, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:actor&quot;&gt;bertofer&lt;/a&gt; opened issue &lt;a href=&quot;/Quramy/electron-connect/issues/60&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:issue&quot; title=&quot;Not allowed to load local resource: data:text/html,chromewebdata:1&quot;&gt;Quramy/electron-connect#60&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;
+      Not allowed to load local resource: data:text/html,chromewebdata:1
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4548185707</id>
+    <published>2016-09-12T09:18:36Z</published>
+    <updated>2016-09-12T09:18:36Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/compare/23dec268b6...28817dcdab"/>
+    <title type="html">bertofer pushed to master at bertofer/angular2-electron</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-12T09:18:36Z&quot;&gt;Sep 12, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/angular2-electron/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/angular2-electron&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/angular2-electron&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/angular2-electron/commit/28817dcdab5aaf9e8fde24db7e902b752190c7b0&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;28817dc&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Updated dependencies
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/4548155007</id>
+    <published>2016-09-12T09:11:54Z</published>
+    <updated>2016-09-12T09:11:54Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/SitePen/remap-istanbul/issues/45#issuecomment-246291121"/>
+    <title type="html">bertofer commented on issue SitePen/remap-istanbul#45</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 1H6c-.55 0-1 .45-1 1v2H1c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1v3l3-3h4c.55 0 1-.45 1-1V9h1l3 3V9h1c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM9 11H4.5L3 12.5V11H1V5h4v3c0 .55.45 1 1 1h3v2zm6-3h-2v1.5L11.5 8H6V2h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-12T09:11:54Z&quot;&gt;Sep 12, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;bertofer&lt;/a&gt; commented on issue &lt;a href=&quot;/SitePen/remap-istanbul/issues/45#issuecomment-246291121&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Error: Unable to find entry for [...]&quot;&gt;SitePen/remap-istanbul#45&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Having this error as well &lt;code&gt;12 09 2016 10:10:00.495:ERROR [karma]: [Error: Unable to find entry for [src/app/app.component.ts]]
+Error: Unable to find…&lt;/code&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssuesEvent/4546139144</id>
+    <published>2016-09-11T16:55:21Z</published>
+    <updated>2016-09-11T16:55:21Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/issues/2"/>
+    <title type="html">bertofer closed issue bertofer/angular2-electron#2</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issues --&gt;
+&lt;svg aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M7 10h2v2H7v-2zm2-6H7v5h2V4zm1.5 1.5l-1 1L12 9l4-4.5-1-1L12 7l-1.5-1.5zM8 13.7A5.71 5.71 0 0 1 2.3 8c0-3.14 2.56-5.7 5.7-5.7 1.83 0 3.45.88 4.5 2.2l.92-.92A6.947 6.947 0 0 0 8 1C4.14 1 1 4.14 1 8s3.14 7 7 7 7-3.14 7-7l-1.52 1.52c-.66 2.41-2.86 4.19-5.48 4.19v-.01z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-11T16:55:21Z&quot;&gt;Sep 11, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:actor&quot;&gt;bertofer&lt;/a&gt; closed issue &lt;a href=&quot;/bertofer/angular2-electron/issues/2&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:issue&quot; title=&quot;Can You Update to RC6 ?&quot;&gt;bertofer/angular2-electron#2&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;
+      Can You Update to RC6 ?
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/4546139143</id>
+    <published>2016-09-11T16:55:21Z</published>
+    <updated>2016-09-11T16:55:21Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/issues/2#issuecomment-246190584"/>
+    <title type="html">bertofer commented on issue bertofer/angular2-electron#2</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 1H6c-.55 0-1 .45-1 1v2H1c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1v3l3-3h4c.55 0 1-.45 1-1V9h1l3 3V9h1c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM9 11H4.5L3 12.5V11H1V5h4v3c0 .55.45 1 1 1h3v2zm6-3h-2v1.5L11.5 8H6V2h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-11T16:55:21Z&quot;&gt;Sep 11, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;bertofer&lt;/a&gt; commented on issue &lt;a href=&quot;/bertofer/angular2-electron/issues/2#issuecomment-246190584&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Can You Update to RC6 ?&quot;&gt;bertofer/angular2-electron#2&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;I have upgraded to angular2 RC6 and switched the router-deprecated by the new one&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4546137136</id>
+    <published>2016-09-11T16:53:58Z</published>
+    <updated>2016-09-11T16:53:58Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/compare/bc283ec379...23dec268b6"/>
+    <title type="html">bertofer pushed to master at bertofer/angular2-electron</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-11T16:53:58Z&quot;&gt;Sep 11, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/angular2-electron/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/angular2-electron&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/angular2-electron&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/angular2-electron/commit/23dec268b6af3b1ef20b32c15c756d204bd00a97&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;23dec26&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Added title on app.html
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/angular2-electron/commit/e438de1013ced20e8411087f7393a8df28976e63&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;e438de1&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Updated karma-shim
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;/bertofer/angular2-electron/compare/bc283ec379...23dec268b6&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:comparison&quot;&gt;1 more commit »&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/4540684774</id>
+    <published>2016-09-09T15:21:54Z</published>
+    <updated>2016-09-09T15:21:54Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/arxivum-prototype/compare/master"/>
+    <title type="html">bertofer created branch master at bertofer/arxivum-prototype</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- create --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;svg aria-label=&quot;Create&quot; class=&quot;octicon octicon-git-branch dashboard-event-icon&quot; height=&quot;16&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 10 16&quot; width=&quot;10&quot;&gt;&lt;path d=&quot;M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:CreateEvent target:actor&quot;&gt;bertofer&lt;/a&gt; created branch &lt;a href=&quot;/bertofer/arxivum-prototype/tree/master&quot; class=&quot;css-truncate css-truncate-target branch-name&quot; data-ga-click=&quot;News feed, event click, Event click type:CreateEvent target: branch link&quot; title=&quot;master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/arxivum-prototype&quot; data-ga-click=&quot;News feed, event click, Event click type:CreateEvent target:repo&quot;&gt;bertofer/arxivum-prototype&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;relative-time datetime=&quot;2016-09-09T15:21:54Z&quot;&gt;Sep 9, 2016&lt;/relative-time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/4540565119</id>
+    <published>2016-09-09T15:01:05Z</published>
+    <updated>2016-09-09T15:01:05Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/arxivum-prototype"/>
+    <title type="html">bertofer created repository bertofer/arxivum-prototype</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- create --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;svg aria-label=&quot;Create&quot; class=&quot;octicon octicon-repo dashboard-event-icon&quot; height=&quot;16&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 12 16&quot; width=&quot;12&quot;&gt;&lt;path d=&quot;M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:CreateEvent target:actor&quot;&gt;bertofer&lt;/a&gt; created repository &lt;a href=&quot;/bertofer/arxivum-prototype&quot; data-ga-click=&quot;News feed, event click, Event click type:CreateEvent target:repository&quot; title=&quot;bertofer/arxivum-prototype&quot;&gt;bertofer/arxivum-prototype&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;relative-time datetime=&quot;2016-09-09T15:01:05Z&quot;&gt;Sep 9, 2016&lt;/relative-time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/4539078804</id>
+    <published>2016-09-09T09:34:06Z</published>
+    <updated>2016-09-09T09:34:06Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/angular2-electron/issues/2#issuecomment-245866458"/>
+    <title type="html">bertofer commented on issue bertofer/angular2-electron#2</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 1H6c-.55 0-1 .45-1 1v2H1c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1v3l3-3h4c.55 0 1-.45 1-1V9h1l3 3V9h1c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM9 11H4.5L3 12.5V11H1V5h4v3c0 .55.45 1 1 1h3v2zm6-3h-2v1.5L11.5 8H6V2h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-09T09:34:06Z&quot;&gt;Sep 9, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;bertofer&lt;/a&gt; commented on issue &lt;a href=&quot;/bertofer/angular2-electron/issues/2#issuecomment-245866458&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Can You Update to RC6 ?&quot;&gt;bertofer/angular2-electron#2&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Tried to just change package.json and run, and got a ton of errors! I will have a look later to fix everything&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4521955032</id>
+    <published>2016-09-06T15:14:51Z</published>
+    <updated>2016-09-06T15:14:51Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/quercus/compare/25f7603cc6...21e94295bf"/>
+    <title type="html">bertofer pushed to master at bertofer/quercus</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-06T15:14:51Z&quot;&gt;Sep 6, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/quercus/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/quercus&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/quercus&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/quercus/commit/21e94295bf3ce73c720f2c6a36e68e861eeb6957&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;21e9429&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Updated README
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4521920883</id>
+    <published>2016-09-06T15:09:28Z</published>
+    <updated>2016-09-06T15:09:28Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/quercus/compare/be834ad80f...25f7603cc6"/>
+    <title type="html">bertofer pushed to master at bertofer/quercus</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-06T15:09:28Z&quot;&gt;Sep 6, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/quercus/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/quercus&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/quercus&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/quercus/commit/25f7603cc6119efdd4d373b4ebaca1837e5b727a&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;25f7603&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              no-clobber when copy
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/4520879363</id>
+    <published>2016-09-06T12:02:18Z</published>
+    <updated>2016-09-06T12:02:18Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bigchaindb/bigchaindb"/>
+    <title type="html">bertofer starred bigchaindb/bigchaindb</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;svg aria-label=&quot;Watch&quot; class=&quot;octicon octicon-star dashboard-event-icon&quot; height=&quot;16&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;14&quot;&gt;&lt;path d=&quot;M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;bertofer&lt;/a&gt; starred &lt;a href=&quot;/bigchaindb/bigchaindb&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;bigchaindb/bigchaindb&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;relative-time datetime=&quot;2016-09-06T12:02:18Z&quot;&gt;Sep 6, 2016&lt;/relative-time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4520771486</id>
+    <published>2016-09-06T11:36:18Z</published>
+    <updated>2016-09-06T11:36:18Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/quercus/compare/d3a15365b9...be834ad80f"/>
+    <title type="html">bertofer pushed to master at bertofer/quercus</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-06T11:36:18Z&quot;&gt;Sep 6, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/quercus/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/quercus&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/quercus&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/quercus/commit/be834ad80f8258f66237cc57ded891c06b58c2a4&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;be834ad&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Updated readme
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4520702158</id>
+    <published>2016-09-06T11:19:36Z</published>
+    <updated>2016-09-06T11:19:36Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/quercus/compare/68b34c445d...d3a15365b9"/>
+    <title type="html">bertofer pushed to master at bertofer/quercus</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-06T11:19:36Z&quot;&gt;Sep 6, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/quercus/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/quercus&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/quercus&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/quercus/commit/d3a15365b9b924ca896fae425a2172baec97a4d6&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;d3a1536&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Started DnD. Removed copy until #7 is solved
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssuesEvent/4520698894</id>
+    <published>2016-09-06T11:18:47Z</published>
+    <updated>2016-09-06T11:18:47Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/quercus/issues/7"/>
+    <title type="html">bertofer opened issue bertofer/quercus#7</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issues --&gt;
+&lt;svg aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-opened dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-06T11:18:47Z&quot;&gt;Sep 6, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:actor&quot;&gt;bertofer&lt;/a&gt; opened issue &lt;a href=&quot;/bertofer/quercus/issues/7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssuesEvent target:issue&quot; title=&quot;Paste file on the same folder it already exists corrupts the file&quot;&gt;bertofer/quercus#7&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;
+      Paste file on the same folder it already exists corrupts the file
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4517716029</id>
+    <published>2016-09-05T16:37:56Z</published>
+    <updated>2016-09-05T16:37:56Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bertofer/quercus/compare/4a2fa29a05...68b34c445d"/>
+    <title type="html">bertofer pushed to master at bertofer/quercus</title>
+    <author>
+      <name>bertofer</name>
+      <email>alberto.fernandez.491@gmail.com</email>
+      <uri>https://github.com/bertofer</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634229?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-05T16:37:56Z&quot;&gt;Sep 5, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;bertofer&lt;/a&gt; pushed to &lt;a href=&quot;/bertofer/quercus/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/bertofer/quercus&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;bertofer/quercus&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/bertofer&quot;&gt;&lt;img alt=&quot;@bertofer&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars3.githubusercontent.com/u/1634229?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;bertofer&quot;&gt;
+            &lt;img alt=&quot;@bertofer&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/1634229?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/bertofer/quercus/commit/68b34c445d261c20cd6e70a2e9c1fa4a56d48170&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;68b34c4&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Implemented basic copy/paste of files
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
