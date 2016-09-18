@@ -17,11 +17,11 @@ class ItemComponent extends Component {
           </figure>
           <div className="media-content">
             <div className="content">
-              <p>
-                <strong>{this.props.item.author}</strong>
-                <br />
-                <div dangerouslySetInnerHTML={this.itemHtml()}></div>
-              </p>
+
+              <strong>{this.props.item.author}</strong>
+              <br />
+              <div dangerouslySetInnerHTML={this.itemHtml()}></div>
+
             </div>
           </div>
         </article>

@@ -28160,7 +28160,7 @@
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
-	var API_URL = 'http://rss2json.com/api.json?rss_url=';
+	var API_URL = 'https://rss2json.com/api.json?rss_url=';
 	
 	var REQUEST_FEED = exports.REQUEST_FEED = 'REQUEST_FEEDS';
 	var REQUEST_FEED_ERROR = exports.REQUEST_FEED_ERROR = 'REQUEST_FEEDS_ERROR';
@@ -30717,16 +30717,12 @@
 	                'div',
 	                { className: 'content' },
 	                _react2.default.createElement(
-	                  'p',
+	                  'strong',
 	                  null,
-	                  _react2.default.createElement(
-	                    'strong',
-	                    null,
-	                    this.props.item.author
-	                  ),
-	                  _react2.default.createElement('br', null),
-	                  _react2.default.createElement('div', { dangerouslySetInnerHTML: this.itemHtml() })
-	                )
+	                  this.props.item.author
+	                ),
+	                _react2.default.createElement('br', null),
+	                _react2.default.createElement('div', { dangerouslySetInnerHTML: this.itemHtml() })
 	              )
 	            )
 	          )
