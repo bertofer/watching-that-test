@@ -1,6 +1,6 @@
 import request from 'browser-request'
 
-const API_URL = 'http://rss2json.com/api.json?rss_url='
+const API_URL = 'https://rss2json.com/api.json?rss_url='
 
 export const REQUEST_FEED = 'REQUEST_FEEDS'
 export const REQUEST_FEED_ERROR = 'REQUEST_FEEDS_ERROR'
